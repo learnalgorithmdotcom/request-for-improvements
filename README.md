@@ -1,4 +1,4 @@
-# 7-Days of Algorithm Fundamentals
+# 7days-algorithm-fundamentals
 
 Discussion forum for LearnAlgorithm's “7-Days of Data Structure and Algorithm Fundamentals” course 
 

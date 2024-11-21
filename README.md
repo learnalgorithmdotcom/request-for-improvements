@@ -1,4 +1,4 @@
-# 7-Days of Data Structure and Algorithm Fundamentals
+# 7-Days of Algorithm Fundamentals
 
 Discussion forum for LearnAlgorithm's “7-Days of Data Structure and Algorithm Fundamentals” course 
 
@@ -6,4 +6,4 @@ Discussion forum for LearnAlgorithm's “7-Days of Data Structure and Algorithm 
 - Asking questions
 - Request for improvements
 
-See the [issues](https://github.com/learnalgorithmdotcom/7days-algorithm-fundamentals/issues) page for more information.
+See the [issues](https://github.com/learnalgorithmdotcom/7days-algorithm-fundamentals/issues) to get started.
